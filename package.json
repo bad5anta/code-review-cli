@@ -1,0 +1,16 @@
+{
+  "name": "codereview",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 7.10.0"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "diff2html": "^2.3.2",
+    "node-fetch": "^1.7.3",
+    "vorpal": "^1.12.0"
+  },
+  "bin": {
+    "codereview": "bin/codereview.js"
+  }
+}
